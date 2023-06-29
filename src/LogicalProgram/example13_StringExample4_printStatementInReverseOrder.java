@@ -1,6 +1,6 @@
 package LogicalProgram;
 
-public class example13_printStatementInReverseOrder4
+public class example13_StringExample4_printStatementInReverseOrder
 {
 	public static void main(String[] args) 
 	{
